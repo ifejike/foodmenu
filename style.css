@@ -1,0 +1,50 @@
+div {
+    border-radius: 20px;
+    padding: 30px;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+h1 {
+font-weight: 900;
+font-family: Georgia;
+color: rgb(27, 27, 27);
+}
+
+li {
+    padding: 0px 5px 5px 10px;
+}
+
+h2 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: hsl(14, 45%, 36%);
+}
+
+h4 {
+margin-left: 20px;
+}
+#gram {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+    
+}
+span {
+    color: hsl(24, 5%, 18%);
+}
+hr {
+    border-style: ridge;
+}
+dl {
+    display: flex;
+    justify-content: flex-start;
+   
+    
+}
+dd {
+    width: 100%;
+}
+
+
+
